@@ -79,11 +79,11 @@
 
 @media screen and (max-width: 600px) {
     .banner__wrap {
-        gap: 9px;
+        gap: 18px;
     }
 
     .banner__title {
-        font-size: 35px; 
+        font-size: 42px; 
     }
 
     .banner__link {
